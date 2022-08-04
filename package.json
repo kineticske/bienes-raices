@@ -1,0 +1,22 @@
+{
+  "name": "bienes-raices",
+  "version": "1.0.0",
+  "description": "Webpage bienes raices ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server":"nodemon index.js"
+  },
+  "keywords": [
+    "MVC",
+    "Node",
+    "Express",
+    "Sequelize"
+  ],
+  "author": "Karina Arjona @kineticske",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
